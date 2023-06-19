@@ -8,3 +8,12 @@ A simple class contains two lists and a process function. The time for waiting f
 ```bash
     python run_objop.py
 ```
+
+## A joint example for an dictionary of objects
+
+A dictionary class is used for keeping a list of objects and handle multiple threading for getting and deleting objects.
+
+```bash
+    python run_objdict.py
+```
+
